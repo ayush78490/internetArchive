@@ -101,7 +101,7 @@ export function TopBar() {
         <div className="ml-auto flex shrink-0 items-center gap-0.5">
           <ThemeToggle />
           <a
-            href="https://github.com/fmhy/edit"
+            href="https://github.com/ayush78490/internetArchive"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Source wiki on GitHub"
